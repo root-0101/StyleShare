@@ -28,7 +28,7 @@ Style Share is a collaborative platform designed to streamline the process of cr
 
 ## Video
 
-https://github.com/root-0101/StyleShare/assets/142779809/99e13fc0-e37f-4cf6-8f77-a90ae1b16044
+https://github.com/VaibhavArora314/StyleShare/assets/142779809/3ae8d418-1c07-43ae-9ca7-8be02f06ea7b
 
 ## Setting Up on your machine
 
